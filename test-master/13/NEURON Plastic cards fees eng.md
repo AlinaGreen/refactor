@@ -1,0 +1,29 @@
+|                             |                                       |                                       |                                           |                   |                 |
+|-----------------------------|---------------------------------------|---------------------------------------|-------------------------------------------|-------------------|-----------------|
+|                             | Fees                                  |                                       |                                           |                   |                 |
+|                             |                                       |                                       |                                           |                   |                 |
+|                             |                                       | NEURON                                | TenX                                      | Wirex & Xapo      | Tocken card     |
+| Issue                       |                                       |                                       |                                           |                   |                 |
+|                             | Real card                             | $10.00                                | $15.00                                    | $20.00            | -               |
+|                             | Virtual card                          | $1.00                                 | $1.50                                     | $3.00             | -               |
+| Yearly sevice fee           |                                       |                                       |                                           |                   |                 |
+|                             | Real card                             | $5.00                                 | FREE ($10 if spend less than $1,000/year) | 12                | -               |
+|                             | Virtual card                          | $5.00                                 | FREE ($10 if spend less than $1,000/year) | No card           | 12              |
+| Exchange transaction fee    |                                       |                                       |                                           |                   |                 |
+|                             | Domestic                              | 2%                                    | 0%                                        | 3%                | 4.50%           |
+|                             |                                       |                                       |                                           |                   |                 |
+|                             |                                       |                                       |                                           |                   |                 |
+|                             | Products                              |                                       |                                           |                   |                 |
+|                             |                                       |                                       |                                           |                   |                 |
+|                             | NEURON                                | TenX                                  | Wirex & Xapo                              | Monaco            | Tocken card     |
+| Supported cryptocurrencies  | Any                                   | BTC. ETH. DASH                        | BTC                                       | BTC. ETH          | ETH             |
+| Security of stored funds    | Convenient wallet and smart contracts | Convenient wallet and smart contracts | Convenient wallet                         | Convenient wallet | Smart contracts |
+| Double-spending risk        | Safe                                  | Safe                                  | Safe                                      | Safe              | Risky           |
+| Issuer                      | Visa. MC                              | Visa. MC                              | Visa                                      | Visa              | Visa            |
+| Status                      | Operational                           | Operational                           | Operational                               | Not operational   | Not operational |
+| User funds security control | Full control                          | Full control                          | No control                                | Little control    | Partial control |
+| Open platform               | Yes                                   | Yes                                   | No                                        | No                | No              |
+| Cashback                    | 0.2%                                  | 0.1%                                  | No                                        | No                | No              |
+| Remittance fee              | 0.50%                                 | -                                     | -                                         | 1%                | 1.50%           |
+| NFC                         | Yes                                   | -                                     | -                                         | -                 | -               |
+| ByPass. Master pay          | Yes                                   | -                                     | -                                         | -                 | -               |
